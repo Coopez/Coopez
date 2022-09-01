@@ -1,6 +1,6 @@
 👋 Hi, I’m @Coopez,
-   or Niklas. German A.I. Master Student in the Netherlands
+   or Niklas. German AI Master Student in the Netherlands
 
-  I am currently engaged in working on my Thesis in modeling soft, dielectric polymer based, actuators.
+  I just finished my Thesis! The next step for me is looking for a Phd project.
   
   Cheers!
