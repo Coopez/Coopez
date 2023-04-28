@@ -1,6 +1,6 @@
 👋 Hi, I’m @Coopez,
-   or Niklas. German AI Master Student in the Netherlands
+   or Niklas. German PhD Student in Norway
 
-  I just finished my Thesis! The next step for me is looking for a Phd project.
+  Just working on some forecasting of renewable energy with machine learning.
   
   Cheers!
